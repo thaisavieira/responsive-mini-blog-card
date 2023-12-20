@@ -1,7 +1,7 @@
 body {
     font-family: 'Sora', sans-serif;
-    background: #b9abda;
-
+    background: #FAFAF9;
+    height: 100vh
 }
 
 .card {
@@ -57,28 +57,4 @@ hr {
     font-size: 0.75rem;
     color: #6c727f;
     padding-bottom: 20px;
-}
-
-footer {
-    text-align: center;
-    position: absolute;
-    bottom: 10px;
-    left: 30%;
-    right: 30%;
-}
-
-a {
-    text-decoration: none;
-}
-
-a:visited {
-    color: #973ebb;
-}
-
-a:link {
-    color: #522c8e;
-}
-
-a:hover {
-    text-decoration: underline;
 }
